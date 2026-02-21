@@ -1,7 +1,7 @@
 ## Hi I'm Anshu 👋
-computer science student
-🌱 I’m currently learning ...
-🔭 I’m currently working on ...
+computer science student<br>
+🌱 I’m currently learning ...<br>
+🔭 I’m currently working on ...<br>
 💬 Ask me about ...
 <!--
 **Anshu-Das-cyber/Anshu-Das-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
